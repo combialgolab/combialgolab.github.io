@@ -26,7 +26,6 @@
         {% unless page.hide_hero %}
             {% include hero.html %}
         {% endunless %}
-        {% include callouts.html %}
         <section class="section">
             <div class="container">
                 <div class="columns is-multiline">
@@ -41,10 +40,6 @@
                         </div>
                     {% endif %}
                     <main class="column {{ content_width }}" id="main-content">
-                        {% include tabs.html %}
-                        {% include showcase.html %}
-                        {% include sponsors.html %}
-                        {% include gallery.html %}
                         {{ content }}
                     </main>
                     {% if site.posts and page.show_sidebar %}

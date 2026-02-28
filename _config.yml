@@ -1,31 +1,20 @@
 # Site Settings
-lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+lang: ko-KR
+title: Combinatorial Algorithms Lab
+# 연구 분야를 명시하여 검색 엔진에 잘 걸리도록 수정
+tagline: Graph Theory & Combinatorial Algorithms Research Lab
+email: junghoahn@inha.ac.kr
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  인하대학교 조합적 알고리즘 연구실 홈페이지입니다. 
+  그래프 이론 (Graph Theory)과 조합 알고리즘 (Combinatorial Algorithms)을 중점적으로 연구합니다.
+baseurl: ""
+url: "https://Combinatorial-Algorithms-Lab.github.io"
 permalink: pretty
-#favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
-#hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
-#direction: one of <ltr, rtl, auto>, default: ltr
+
 force_theme: light
 
-paginate: 5
-paginate_path: "/blog/page:num"
-
-# Disqus Comments
-disqus:
-  # Leave shortname blank to disable comments site-wide.
-  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  # shortname: my_disqus_shortname
-  shortname: csrhymes
-
+markdown: kramdown
+highlighter: rouge
 
 plugins:
   - jekyll-sitemap
@@ -44,52 +33,33 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - README.md
+  - LICENSE.txt
 
-livereload: true
 
-sass:
-  style: compressed
-  source_dir: _sass
-  # load_paths: 
-    # - node_modules
-
-#google_analytics: UA-code-here
-cookie_policy: /cookie-policy/
-
+# -----------------------
+# Layout Defaults (기본 레이아웃)
+# -----------------------
 defaults:
   -
     scope:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false # 페이지에서는 사이드바 숨김
   -
     scope:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Jungho Ahn"
       layout: post
-      image: https://picsum.photos/id/16/800/600
       show_sidebar: true
 
-markdown: kramdown
-highlighter: rouge
 
-footer_menu: example_footer_menu
-
-collections:
-  products: 
-    output: true
-    layout: product
-    image: https://picsum.photos/id/16/800/600
-    show_sidebar: false
-
-social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+# -----------------------
+# Social & GitHub
+# -----------------------
+github_username: Combinatorial-Algorithms-Lab
+github_repo: https://github.com/Combinatorial-Algorithms-Lab
   

@@ -1,0 +1,21 @@
+- year: 2026
+  title: "Optimal Algorithm for Graph Coloring Problems"
+  authors: "**Jinha Park**, Younghee Lee, and **Gildong Hong**"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
+  pdf: "/assets/pdf/paper1.pdf"
+  code: "https://github.com/lab/code"
+  award: "Best Paper Award 🏆"
+
+- year: 2026
+  title: "Financial Time-series Forecasting using Transformer"
+  authors: "Running Man, **Gildong Hong**"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI), Oral Presentation"
+  pdf: "/assets/pdf/paper2.pdf"
+  # code나 award가 없는 논문은 해당 줄을 지우거나 비워두면 버튼이 표시되지 않음.
+
+- year: 2025
+  title: "New Approach to Combinatorial Optimization"
+  authors: "**Gildong Hong** et al."
+  venue: "NeurIPS 2025"
+  pdf: "#"
+  code: "#"

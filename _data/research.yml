@@ -1,0 +1,17 @@
+- title: "Graph Theory"
+  subtitle: "네트워크 구조 분석 및 최적화"
+  description: "그래프 컬러링, 매칭 이론 등 순수 수학적 모델링을 연구합니다."
+  image: "/assets/img/research1.jpg"
+  link: "/research/graph-theory/"
+
+- title: "Financial AI"
+  subtitle: "시계열 데이터 예측"
+  description: "딥러닝을 활용한 주가 예측 및 리스크 관리 알고리즘 개발."
+  image: "/assets/img/research2.jpg"
+  link: "/research/financial-ai/"
+
+- title: "Combinatorial Opt."
+  subtitle: "조합 최적화"
+  description: "NP-Hard 문제 해결을 위한 근사 알고리즘 설계."
+  image: "/assets/img/research3.jpg"
+  link: "/research/optimization/"

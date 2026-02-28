@@ -1,21 +1,21 @@
 <footer class="footer">
-    <div class="container">
-        {% if site.footer_menu %}
-            <div class="columns is-multiline">
-                {% for item in site.data[site.footer_menu] %}
-                    <div class="column has-text-centered">
-                        <div>
-                            <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
-                        </div>
-                    </div>
-                {% endfor %}
-            </div>
-        {% endif %}
-
-        {% include follow.html %}
-
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
-        </div>
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Combinatorial Algorithms Lab</strong> <br>
+        인하대학교 컴퓨터공학과 조합 알고리즘 연구실<br>
+        <a href="https://github.com/Combinatorial-Algorithms-Lab" target="_blank" class="button is-light is-small" style="margin-top: 15px;">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+          <span>GitHub</span>
+        </a>
+      </p>
+      
+      <p class="is-size-7 has-text-grey">
+        &copy; 2026 Combinatorial Algorithms Lab. All rights reserved.<br>
+        <span class="is-size-7 has-text-grey-light">Theme built by C.S. Rhymes</span>
+      </p>
     </div>
+  </div>
 </footer>

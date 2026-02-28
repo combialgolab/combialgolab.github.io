@@ -1,5 +1,24 @@
 ---
 ---
 
+// Custom Color Variables for Bulma Clean Theme
+$primary: #005BAC;  /* Deep Blue - 메인 색상, 버튼 등 */
+$info:    #00AFEC;  /* Sky Blue - 정보 박스, 강조 텍스트 */
+$link:    #005BAC;  /* 링크 색상도 Deep Blue로 통일 */
+
+/* 햄버거 메뉴 색상을 상시 흰색으로 고정 (표준 3줄 유지) */
+.navbar-burger {
+  color: white !important;
+}
+.navbar-burger span {
+  background-color: white !important;
+  height: 2px !important; /* 선 굵기만 살짝 더 또렷하게 */
+}
+/* 마우스 올렸을 때 배경 살짝 밝아지게 처리 */
+.navbar-burger:hover,
+.navbar-burger.is-active {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
 // Import Main CSS file from theme
 @import "main";

@@ -1,0 +1,51 @@
+# _data/members.yml
+
+# group 종류: professor / researcher / alumni
+
+# [1] 교수님 정보
+- name: 안정호 (Jungho Ahn)
+  group: professor  
+  role: Assistant Professor
+  img: /assets/img/prof.jpg
+  email: junghoahn@inha.ac.kr
+  location: 하이테크관 1306호
+  website: https://www.junghoahn.com/
+  interests: Graph Theory, Combinatorial Algorithms
+
+# [2] 학생 연구원들
+- name: 김철수 (Cheolsu Kim)
+  group: researcher
+  role: Ph.D. Student
+  img: /assets/img/student1.jpg
+  email: cheolsuya@inha.ac.kr
+  location: 하이테크관 1106호
+  website:
+  interests: Deep Learning
+
+- name: 이영희 (Younghee Lee)
+  group: researcher
+  role: Master Student
+  img: /assets/img/student2.jpg
+  email: younghee@inha.ac.kr
+  location: 하이테크관 1106호
+  website:
+  interests: Network Analysis
+
+- name: 박진하 (Jinha Park)
+  group: researcher
+  role: Undergraduate Research Assistant
+  img: ../assets/img/jinha-park-profile.jpg
+  email: qka0103@inha.ac.kr
+  website: https://jjiinaaa.github.io/
+  location: 하이테크관 1106호
+  interests: Financial Network Analysis, Finance AI
+
+# [3] 졸업생 (Alumni)
+- name: 박민수 (Minsu Park)
+  group: alumni
+  role: Samsung Electronics
+  img: /assets/img/alumni1.jpg
+  email: minsupark@inha.ac.kr
+  website:
+  location: 
+  interests: 2024 Ph.D. Gradient
