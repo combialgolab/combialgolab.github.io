@@ -24,10 +24,9 @@ show_sidebar: false
     color: #666;
     margin-bottom: 0.3rem;
   }
-  /* **이름** 으로 마크다운 작성 시 기존의 .my-name 클래스와 동일한 스타일이 적용되도록 설정 */
+  /* 이름 으로 마크다운 작성 시 기존의 .my-name 클래스와 동일한 스타일이 적용되도록 설정 */
   .pub-authors strong {
     font-weight: 900; 
-    text-decoration: underline;
     color: #363636;
   }
   .pub-venue {

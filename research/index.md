@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Areas
+title: Research
 subtitle: 주요 연구 분야 소개
 hero_image: ../assets/img/banner.png  
 hero_height: is-medium
@@ -9,7 +9,6 @@ show_sidebar: false
 ---
 
 <style>
-  /* 쇼핑몰처럼 보이게 하는 마법의 CSS */
   .research-card {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
@@ -24,7 +23,7 @@ show_sidebar: false
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
   }
 
-  /* 이미지 비율 고정 (쇼핑몰 썸네일처럼) */
+  /* 이미지 비율 고정 */
   .card-image img {
     object-fit: cover;
     width: 100%;

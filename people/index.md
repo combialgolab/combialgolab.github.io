@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: People
 subtitle: 연구실 구성원 소개
 hero_image: ../assets/img/banner.png  
 hero_height: is-medium
@@ -35,7 +35,7 @@ show_sidebar: false
   }
 </style>
 
-{% assign professors = site.data.members | where: "group", "professor" %}
+{% assign professors = site.data.people | where: "group", "professor" %}
 {% if professors.size > 0 %}
 <h2 class="title is-3">Professor</h2>
 <div class="columns is-multiline">
@@ -77,7 +77,7 @@ show_sidebar: false
 {% endif %}
 
 
-{% assign researchers = site.data.members | where: "group", "researcher" %}
+{% assign researchers = site.data.people | where: "group", "researcher" %}
 {% if researchers.size > 0 %}
 <h2 class="title is-3">Researchers</h2>
 <div class="columns is-multiline">
@@ -119,7 +119,7 @@ show_sidebar: false
 {% endif %}
 
 
-{% assign alumni = site.data.members | where: "group", "alumni" %}
+{% assign alumni = site.data.people | where: "group", "alumni" %}
 {% if alumni.size > 0 %}
 <h2 class="title is-3">Alumni</h2>
 <div class="columns is-multiline">
