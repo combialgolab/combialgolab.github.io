@@ -4,6 +4,7 @@ title: Research Areas
 subtitle: 주요 연구 분야 소개
 hero_image: ../assets/img/banner.png  
 hero_height: is-medium
+hero_darken: true        
 show_sidebar: false
 ---
 

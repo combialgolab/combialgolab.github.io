@@ -2,7 +2,9 @@
 layout: page
 title: Graph Theory
 subtitle: 그래프 이론 및 네트워크 분석
-show_sidebar: true
+hero_height: is-medium
+hero_darken: true        
+show_sidebar: false
 ---
 
 ## 연구 개요

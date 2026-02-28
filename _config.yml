@@ -46,7 +46,10 @@ defaults:
       path: ""
       type: "pages"
     values:
+      layout: page
       show_sidebar: false # 페이지에서는 사이드바 숨김
+      hero_height: is-custom
+      hero_image: /assets/img/banner.png  
   -
     scope:
       path: ""
