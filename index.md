@@ -1,5 +1,5 @@
 ---
-title: Combinatorial Algorithms Lab
+title: Combinatorical Algorithms Lab
 subtitle: Welcome to our research group @ Inha Univ
 layout: page
 hero_height: is-custom

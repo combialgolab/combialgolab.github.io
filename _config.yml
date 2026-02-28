@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Combi-Algo Lab
 # 연구 분야를 명시하여 검색 엔진에 잘 걸리도록 수정
-tagline: Combinatorial Algorithms Research Lab
+tagline: Combinatorical Algorithms Research Lab
 email: junghoahn@inha.ac.kr
 description: >
   인하대학교 조합적 알고리즘 연구실 홈페이지입니다. 
@@ -63,6 +63,6 @@ defaults:
 # -----------------------
 # Social & GitHub
 # -----------------------
-github_username: Combinatorial-Algorithms-Lab
+github_username: Combinatorical-Algorithms-Lab
 github_repo: https://combialgolab.github.io/
   
