@@ -1,14 +1,14 @@
 # Site Settings
 lang: ko-KR
-title: Combinatorial Algorithms Lab
+title: Combi-Algo Lab
 # 연구 분야를 명시하여 검색 엔진에 잘 걸리도록 수정
-tagline: Graph Theory & Combinatorial Algorithms Research Lab
+tagline: Combinatorial Algorithms Research Lab
 email: junghoahn@inha.ac.kr
 description: >
   인하대학교 조합적 알고리즘 연구실 홈페이지입니다. 
   그래프 이론 (Graph Theory)과 조합 알고리즘 (Combinatorial Algorithms)을 중점적으로 연구합니다.
 baseurl: ""
-url: "https://Combinatorial-Algorithms-Lab.github.io"
+url: "https://combialgolab.github.io/"
 permalink: pretty
 
 force_theme: light
@@ -64,5 +64,5 @@ defaults:
 # Social & GitHub
 # -----------------------
 github_username: Combinatorial-Algorithms-Lab
-github_repo: https://github.com/Combinatorial-Algorithms-Lab
+github_repo: https://combialgolab.github.io/
   
