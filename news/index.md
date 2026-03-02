@@ -32,7 +32,15 @@ show_sidebar: false
   {% for item in year_group.items %}
   <div class="news-item">
     <span class="news-date">{{ item.date }}</span>
-    <span>{{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+    <span>
+      {% if item.link %}
+        <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: underline;">
+          {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+        </a>
+      {% else %}
+        {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% endif %}
+    </span>
   </div>
   {% endfor %}
 
