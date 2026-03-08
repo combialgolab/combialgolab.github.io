@@ -1,23 +1,21 @@
 <div class="sidebar">
-  <h3 class="title is-4">📝 Recent Publications</h3>
-  
-  {% assign recent_pubs = site.data.publications | slice: 0, 3 %}
-  
-  {% for paper in recent_pubs %}
-  <div class="box" style="margin-bottom: 1rem; padding: 1rem;">
-    <p class="is-size-6 has-text-weight-bold" style="margin-bottom: 0.2rem; line-height: 1.3;">
-      {{ paper.title }}
-    </p>
-    <p class="is-size-7 has-text-grey" style="margin-bottom: 0.2rem;">
-      {{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-    </p>
-    <p class="is-size-7 has-text-link is-italic" style="margin-bottom: 0;">
-      {{ paper.venue }} ({{ paper.year }})
-    </p>
-  </div>
-  {% endfor %}
-  
-  <a href="/publications/" class="button is-link is-outlined is-fullwidth mt-3">
-    논문 전체 보기
-  </a>
+  <h3 class="title is-4">Latest News</h3>
+
+  {% assign recent_news = site.data.news | sort: "date" | reverse | slice: 0, 3 %}
+    
+    {% for item in recent_news %}
+    <div class="box" style="margin-bottom: 1rem; padding: 1rem;">
+      <p class="is-size-7 has-text-info has-text-weight-bold" style="margin-bottom: 0.3rem;">{{ item.date }}</p>
+      <div class="content is-size-6" style="margin-bottom: 0;">
+        {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    </div>
+    {% endfor %}
+
+    <a href="/news/" 
+      class="button is-link is-outlined is-fullwidth mt-4"
+      style="border-color: #363636 !important; color: #363636 !important; background: transparent !important;"
+    >
+      연구실 소식 더보기
+    </a>
 </div>

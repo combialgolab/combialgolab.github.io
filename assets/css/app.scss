@@ -1,9 +1,19 @@
 ---
 ---
 
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+html, body {
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif !important;
+}
+
+body {
+  padding-top: 3.25rem !important; /* body 끌어올리기 줌 */
+}
+
 // Custom Color Variables for Bulma Clean Theme
-$primary: #005BAC;  /* Deep Blue - 메인 색상, 버튼 등 */
-$info:    #00AFEC;  /* Sky Blue - 정보 박스, 강조 텍스트 */
+$primary: #005BAC;  /* 인하대 컬러1: Deep Blue - 메인 색상, 버튼 등 */
+$info:    #00AFEC;  /* 인하대 컬러2: Sky Blue - 정보 박스, 강조 텍스트 */
 $link:    #005BAC;  /* 링크 색상도 Deep Blue로 통일 */
 
 /* 햄버거 메뉴 색상을 상시 흰색으로 고정 (표준 3줄 유지) */

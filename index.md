@@ -31,35 +31,40 @@ show_sidebar: true
 <hr>
 
 <div class="columns">
-  
-  <div class="column is-7">
-    <h3>📢 Latest News</h3>
-    {% assign recent_news = site.data.news | sort: "date" | reverse | slice: 0, 3 %}
-    
-    {% for item in recent_news %}
-    <div class="box" style="margin-bottom: 1.2rem; padding: 1.2rem;">
-      <p class="is-size-7 has-text-info has-text-weight-bold" style="margin-bottom: 0.3rem;">{{ item.date }}</p>
-      <div class="content is-size-6" style="margin-bottom: 0;">
-        {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
-      </div>
-    </div>
-    {% endfor %}
-    
-    <div class="has-text-right mt-2">
-      <a href="/news/" class="button is-small is-light">소식 더보기 →</a>
-    </div>
-  </div>
-
-  <div class="column is-5">
-    <h3>🔍 Research Areas</h3>
+   <div class="column is-4">
+    <h3>Research Areas</h3>
     <div class="content is-size-6">
       <ul>
         <li>Graph Neural Networks (GNN)</li>
         <li>Combinatorial Optimization</li>
       </ul>
     </div>
-    <a href="/research/" class="button is-link is-outlined is-fullwidth mt-4">
+    <a href="/research/" class="button is-link is-outlined is-fullwidth   mt-4">
       연구 분야 자세히 보기
+    </a>
+  </div>
+
+  
+  <div class="column is-8">
+    <h3>Recent Publications</h3>
+    {% assign recent_pubs = site.data.publications | slice: 0, 3 %}
+  
+    {% for paper in recent_pubs %}
+      <div class="box" style="margin-bottom: 1.2rem; padding: 1.2rem;">
+        <p class="is-size-6 has-text-weight-bold" style="margin-bottom: 0.2rem; line-height: 1.3;">
+          {{ paper.title }}
+        </p>
+        <p class="is-size-7 has-text-grey" style="margin-bottom: 0.2rem;">
+          {{ paper.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+        </p>
+        <p class="is-size-7 has-text-link is-italic" style="margin-bottom: 0;">
+          {{ paper.venue }} ({{ paper.year }})
+        </p>
+      </div>
+    {% endfor %}
+    
+    <a href="/publications/" class="button is-link is-outlined is-fullwidth mt-4">
+      논문 전체 보기
     </a>
   </div>
 

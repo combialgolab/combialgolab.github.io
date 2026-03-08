@@ -4,7 +4,7 @@
   image: "/assets/img/activity1.jpg"
   link: "/activities/aaai-2026/"
 
-- title: "2026 신년 맞이 회식 🍕"
+- title: "2026 신년 맞이 회식"
   date: "2026.01"
   location: ""
   image: "/assets/img/activity2.jpg"
@@ -16,7 +16,7 @@
   image: "/assets/img/activity3.jpg"
   link: "/activities/workshop-2025/"
 
-- title: "2025학년도 전기 학위수여식 🎓"
+- title: "2025학년도 전기 학위수여식"
   date: "2025.08"
   location: ""
   image: "/assets/img/activity4.jpg"
