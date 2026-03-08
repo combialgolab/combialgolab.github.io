@@ -30,5 +30,10 @@ $link:    #005BAC;  /* 링크 색상도 Deep Blue로 통일 */
   background-color: rgba(255, 255, 255, 0.1) !important;
 }
 
+.button.is-link:hover {
+  background-color: #013b6e !important;
+  transition: all 0.3s ease;
+}
+
 // Import Main CSS file from theme
 @import "main";
