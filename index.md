@@ -47,7 +47,7 @@ show_sidebar: true
     -Parameterized complexity<br>
     -Kernelization<br>
     -Approximation algorithms<br>
-    -Combinatorial Optimization
+    -Combinatorial optimization
   </p>
    <a href="/research/" class="button is-link is-outlined" style="width: 20%; background-color: #005BAC; color: #fff; height: 40px;">
     연구 분야 자세히 보기
