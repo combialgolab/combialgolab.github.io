@@ -33,27 +33,20 @@ show_sidebar: true
   </p>
   <h3>Keywords</h3>
   <p>
-    <strong>Structural Graph Theory</strong>
+    <strong>Structural Graph Theory</strong><br>
 
-    -Graph parameters
-
-    -Graph decompositions
-
-    -Forbidden structures
-
+    -Graph parameters<br>
+    -Graph decompositions<br>
+    -Forbidden structures<br>
     -Sparse/dense graph classes
   </p>
   <p>
-    <strong>Combinatorial Algorithms</strong>
+    <strong>Combinatorial Algorithms</strong><br>
 
-    -NP-completeness
-
-    -Parameterized complexity
-
-    -Kernelization
-
-    -Approximation algorithms
-
+    -NP-completeness<br>
+    -Parameterized complexity<br>
+    -Kernelization<br>
+    -Approximation algorithms<br>
     -Combinatorial Optimization
   </p>
    <a href="/research/" class="button is-link is-outlined" style="width: 20%; background-color: #005BAC; color: #fff; height: 40px;">
