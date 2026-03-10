@@ -18,7 +18,7 @@
   role: Undergraduate Research Assistant
   img: /assets/img/chaeeun-shon-profile.jpg
   email: thscodms04@naver.com
-  location: 하이테크관 1105호
+  location: 하이테크관 1115호
   website:
   interests: Graph Theory, Algorithms
 
@@ -28,16 +28,16 @@
   img: ../assets/img/jinha-park-profile.jpg
   email: qka0103@inha.ac.kr
   website: https://jjiinaaa.github.io/
-  location: 하이테크관 1105호
+  location: 하이테크관 1115호
   interests: Financial Network Analysis
 
 - name: 김유진 (Yujin Kim)
   group: researcher
   role: Undergraduate Research Assistant
-  img: /assets/img/student2.jpg
+  img: /assets/img/yujin-kim-profile.jpg
   email: yujin1016@inha.edu
-  location: 하이테크관 1105호
-  website:
+  location: 하이테크관 1115호
+  website: nnewhyee.notion.site
   interests: Graph Theory, Algorithms
 
 # # [3] 졸업생 (Alumni)

@@ -26,28 +26,42 @@ show_sidebar: true
   }
 </style>
 
+<style>
+.two-col {
+  display: flex;
+  gap: 40px;
+}
+
+.two-col p {
+  width: 50%;
+}
+</style>
+
 <div class="content">
   <h3>About Our Lab</h3>
   <p>
     우리 연구실은 <strong>구조적 그래프 이론(Structural Graph Theory)</strong>과 <strong>조합적 알고리즘(Combinatorial Algorithms)</strong>을 중점적으로 연구합니다. 산업 혹은 컴퓨터과학에서 등장하는 복잡한 문제를 이산적 모델인 그래프, 행렬 등으로 추상화하고 이를 효율적으로 해결하는 알고리즘의 설계를 목표로 합니다.
   </p>
   <h3>Keywords</h3>
-  <p>
+  <div class="two-col">
+    <p>
     <strong>Structural Graph Theory</strong><br>
 
     -Graph parameters<br>
     -Graph decompositions<br>
     -Forbidden structures<br>
     -Sparse/dense graph classes
-  </p>
-  <p>
+    </p>
+  
+    <p>
     <strong>Combinatorial Algorithms</strong><br>
 
     -Parameterized complexity<br>
     -Kernelization<br>
     -Approximation algorithms<br>
     -Combinatorial optimization
-  </p>
+    </p>
+  </div>
    <a href="/research/" class="button is-link is-outlined" style="width: 20%; background-color: #005BAC; color: #fff; height: 40px;">
     연구 분야 자세히 보기
   </a>
