@@ -43,7 +43,6 @@ show_sidebar: true
   <p>
     <strong>Combinatorial Algorithms</strong><br>
 
-    -NP-completeness<br>
     -Parameterized complexity<br>
     -Kernelization<br>
     -Approximation algorithms<br>
