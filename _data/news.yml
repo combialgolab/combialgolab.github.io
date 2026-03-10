@@ -1,12 +1,20 @@
 - year: 2026
-  date: "2026.03.02"
+  date: "2026.03.20"
   content: "신입 석사 과정 김상덕, 이순자 학생 입학을 환영합니다!"
   link: "https://naver.com"
 
 - year: 2026
-  date: "2026.02.15"
+  date: "2026.03.15"
   content: "[Paper] 안정호 교수님의 논문이 **학회** 에 채택되었습니다. (Title: ...)"
 
 - year: 2026
-  date: "2026.01.10"
-  content: "과기부 산학 과제(컴퓨터공학) 수주 (2026-2028)"
+  date: "2026.03.13"
+  content: "과기부 산학 과제(컴퓨터공학) 수주 (2026-2031)"
+
+- year: 2026
+  date: "2026.03.02"
+  content: "학부연구생 손채은, 박진하, 김유진 학생을 환영합니다."
+
+- year: 2026
+  date: "2026.03.02"
+  content: "Our website is launched!"
