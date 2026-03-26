@@ -54,9 +54,9 @@ show_sidebar: false
 <div class="pub-item">
 <div class="pub-title">
 {% if paper.link %}
-<a href="{{ paper.link }}" target="_blank" style="color: inherit;">{{ paper.title }}</a>
+<a href="{{ paper.link }}" target="_blank" style="color: inherit;">{{ paper.title | markdownify | remove: '<p>' | remove: '</p>' }}</a>
 {% else %}
-{{ paper.title }}
+{{ paper.title | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endif %}
 </div>
       
@@ -65,7 +65,7 @@ show_sidebar: false
 </div>
       
 <div class="pub-venue">
-{{ paper.venue }}
+{{ paper.venue | markdownify | remove: '<p>' | remove: '</p>' }}
 </div>
 
 <div class="pub-date">

@@ -11,7 +11,7 @@
 
 - year: 2025
   date_detail: "December 2025"
-  title: 'The proper conflict-free $k$-coloring problem and the odd $k$-coloring problem are NP-complete on bipartite graphs'
+  title: 'The proper conflict-free k-coloring problem and the odd k-coloring problem are NP-complete on bipartite graphs'
   authors: "**Jungho Ahn**, Seonghyuk Im, and Sang-il Oum"
   venue: "Discrete Applied Mathematics (DAM)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
@@ -38,7 +38,7 @@
 
 - year: 2023
   date_detail: "May 2023"
-  title: 'A polynomial kernel for $3$-lear power deletion'
+  title: 'A polynomial kernel for 3-lear power deletion'
   authors: "**Jungho Ahn**, Eduard Eiben, O-joung Kwon, and Sang-il Oum"
   venue: "Algorithmica"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
@@ -76,7 +76,7 @@
 
 - year: 2025
   date_detail: "December 2025"
-  title: 'Finding $d$-cuts in claw-free graphs'
+  title: 'Finding d-cuts in claw-free graphs'
   authors: "**Jungho Ahn**, Tala Eagling-Vose, Felicia Lucke, Daniël, Paulusma, and Siani Smith"
   venue: "The 36th International Symposium on Algorithms and Computation (**ISAAC 2025**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
@@ -139,7 +139,7 @@
 
 - year: 2020
   date_detail: "August 2020"
-  title: 'A polynomial kernel for $3$-leaf power deletion'
+  title: 'A polynomial kernel for 3-leaf power deletion'
   authors: "**Jungho Ahn**, Eduard Eiben, O-joung Kwon, and Sang-il Oum"
   venue: "The 45th International Symposium on Mathematical Foundations of Computer Science (**MFCS 2020**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
@@ -175,7 +175,7 @@
 
 - year: 2025
   date_detail: "May 2025"
-  title: 'Finding $d$-cuts in claw-free graphs'
+  title: 'Finding d-cuts in claw-free graphs'
   authors: '**Jungho Ahn**, Tala Eagling-Vose, Felicia Lucke, Daniël Paulusma, and Siani Smith'
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
