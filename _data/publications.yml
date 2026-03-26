@@ -103,7 +103,7 @@
 
 - year: 2025
   date_detail: "January 2025"
-  title: 'A coarse Erd\H{o}s-P\'{o}sa theorem'
+  title: "A coarse Erd\\H{o}s-P\\'{o}sa theorem"
   authors: "**Jungho Ahn**, Pascal Gollin, Tony Huynh, and O-joung Kwon"
   venue: "The 36th ACM-SIAM Symposium on Discrete Algorithms (**SODA25**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
