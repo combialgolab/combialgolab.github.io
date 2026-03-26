@@ -77,7 +77,7 @@
 - year: 2025
   date_detail: "December 2025"
   title: 'Finding $d$-cuts in claw-free graphs'
-  authors: "**Jungho Ahn**, Tala Eagling-Vose, Felicia Lucke, Dani\"{e}l Paulusma, and Siani Smith"
+  authors: "**Jungho Ahn**, Tala Eagling-Vose, Felicia Lucke, Daniël, Paulusma, and Siani Smith"
   venue: "The 36th International Symposium on Algorithms and Computation (**ISAAC 2025**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf9.pdf"
@@ -95,7 +95,7 @@
 - year: 2025
   date_detail: "March 2025"
   title: "Twin-width one"
-  authors: '**Jungho Ahn**, Hugo Jacob, Noleen K\"{o}hler, Christophe Paul, Amadeus Reinald, and Sebastian Wiederrecht'
+  authors: '**Jungho Ahn**, Hugo Jacob, Noleen Köhler, Christophe Paul, Amadeus Reinald, and Sebastian Wiederrecht'
   venue: "The 42nd International Symposium on Theoretical Aspects of Computer Science (**STACS 2025**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf7.pdf"
@@ -103,7 +103,7 @@
 
 - year: 2025
   date_detail: "January 2025"
-  title: "A coarse Erd\\H{o}s-P\\'{o}sa theorem"
+  title: "A coarse Erdős-Pósa theorem"
   authors: "**Jungho Ahn**, Pascal Gollin, Tony Huynh, and O-joung Kwon"
   venue: "The 36th ACM-SIAM Symposium on Discrete Algorithms (**SODA25**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
@@ -176,7 +176,7 @@
 - year: 2025
   date_detail: "May 2025"
   title: 'Finding $d$-cuts in claw-free graphs'
-  authors: '**Jungho Ahn**, Tala Eagling-Vose, Felicia Lucke, Dani\"{e}l Paulusma, and Siani Smith'
+  authors: '**Jungho Ahn**, Tala Eagling-Vose, Felicia Lucke, Daniël Paulusma, and Siani Smith'
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf9.pdf"
@@ -184,14 +184,14 @@
 - year: 2025
   date_detail: "January 2025"
   title: "Twin-width one"
-  authors: "**Jungho Ahn**, Hugo Jacob, Noleen K\"{o}hler, Christophe Paul, Amadeus Reinald, and Sebastian Wiederrecht"
+  authors: "**Jungho Ahn**, Hugo Jacob, Noleen Köhler, Christophe Paul, Amadeus Reinald, and Sebastian Wiederrecht"
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf7.pdf"
 
 - year: 2025
   date_detail: "January 2025"
-  title: "A coarse Erd\\H{o}s-P\\'{o}sa theorem"
+  title: "A coarse Erdős-Pósa theorem"
   authors: "**Jungho Ahn**, Pascal Gollin, Tony Huynh, and O-joung Kwon"
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
