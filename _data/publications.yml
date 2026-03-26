@@ -7,8 +7,7 @@
   venue: "Journal of Computer and System Sciences (JCSS)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper8.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2025
   date_detail: "December 2025"
@@ -17,8 +16,7 @@
   venue: "Discrete Applied Mathematics (DAM)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper7.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2025
   date_detail: "April 2025"
@@ -27,8 +25,7 @@
   venue: "SIAM Journal on Discrete Mathematics (SIDMA)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper6.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2024
   date_detail: "June 2024"
@@ -37,8 +34,7 @@
   venue: "Random Structures & Algorithms (RSA)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper5.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2023
   date_detail: "May 2023"
@@ -47,8 +43,7 @@
   venue: "Algorithmica"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper4.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2022
   date_detail: "September 2022"
@@ -57,8 +52,7 @@
   venue: "SIAM Journal on Discrete Mathematics (SIDMA)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper3.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2022
   date_detail: "May 2022"
@@ -67,8 +61,7 @@
   venue: "Discrete Mathematics (Discrete Math.)"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper2.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2022
   date_detail: "April 2022"
@@ -77,8 +70,7 @@
   venue: "Algorithmica"
   type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper1.pdf"
-  code: 
-  award: 
+  # code: 
 
 # Refereed Conference Papers
 
@@ -89,8 +81,7 @@
   venue: "The 36th International Symposium on Algorithms and Computation (**ISAAC 2025**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf9.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2025
   date_detail: "August 2025"
@@ -99,8 +90,7 @@
   venue: "The 28th International Conference on Approximation Algorithms for Combinatorial Optimization Problems (**APPROX 2025**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf8.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2025
   date_detail: "March 2025"
@@ -109,8 +99,7 @@
   venue: "The 42nd International Symposium on Theoretical Aspects of Computer Science (**STACS 2025**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf7.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2025
   date_detail: "January 2025"
@@ -119,8 +108,7 @@
   venue: "The 36th ACM-SIAM Symposium on Discrete Algorithms (**SODA25**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf6.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2023
   date_detail: "December 2023"
@@ -129,8 +117,7 @@
   venue: "The 34th International Symposium on Algorithms and Computation (**ISAAC 2023**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf5.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2021
   date_detail: "May 2021"
@@ -139,8 +126,7 @@
   venue: "The 12th International Conference on Algorithms and Complexity (**CIAC 2021**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf4.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2020
   date_detail: "December 2020"
@@ -149,8 +135,7 @@
   venue: "The 31st International Symposium on Algorithms and Computation (**ISAAC 2020**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf3.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2020
   date_detail: "August 2020"
@@ -159,8 +144,7 @@
   venue: "The 45th International Symposium on Mathematical Foundations of Computer Science (**MFCS 2020**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALpaper2.pdf"
-  code: 
-  award: 
+  # code: 
 
 - year: 2020
   date_detail: "June 2026"
@@ -169,8 +153,7 @@
   venue: "The 46th Graph-Theoretic Concepts in Computer Science (**WG 2020**)"
   type: "Refereed Conference Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf4.pdf"
-  code: 
-  award: 
+  # code: 
 
 # Preprints
 
@@ -181,8 +164,6 @@
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALarxiv6.pdf"
-  code: 
-  award: 
 
 - year: 2025
   date_detail: "July 2025"
@@ -191,8 +172,6 @@
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf8.pdf"
-  code: 
-  award: 
 
 - year: 2025
   date_detail: "May 2025"
@@ -201,8 +180,6 @@
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf9.pdf"
-  code: 
-  award: 
 
 - year: 2025
   date_detail: "January 2025"
@@ -211,8 +188,6 @@
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALconf7.pdf"
-  code: 
-  award: 
 
 - year: 2025
   date_detail: "January 2025"
@@ -221,8 +196,6 @@
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALarxiv2.pdf"
-  code: 
-  award: 
 
 - year: 2024
   date_detail: "January 2024"
@@ -231,8 +204,6 @@
   venue: "arXiv preprint"
   type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
   pdf: "/assets/pdf/CALarxiv1.pdf"
-  code: 
-  award: 
 
 # - year: 2026
 #   date_detail: "March 2026"
