@@ -29,11 +29,11 @@ show_sidebar: false
     font-weight: 900; 
     color: #363636;
   }
-  .pub-venue {
-    font-style: italic;
-    color: #005BAC; 
-    font-weight: 500;
-    margin-bottom: 0.2rem;
+  .pub-venue, .pub-venue {
+  font-style: italic;
+  color: #005BAC !important; 
+  font-weight: 500;
+  margin-bottom: 0.2rem;
   }
   .pub-date {
     font-size: 0.9rem;
