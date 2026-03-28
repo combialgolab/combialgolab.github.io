@@ -1,7 +1,9 @@
 <div class="sidebar">
   <h3 class="title is-4">Latest News</h3>
-
-  {% assign recent_news = site.data.news | sort: "date" | reverse | slice: 0, 3 %}
+  {% comment %}
+    정렬 로직을 제거하고 news.yml에 적힌 순서대로 상위 3개를 가져오기
+  {% endcomment %}
+  {% assign recent_news = site.data.news | slice: 0, 3 %}
     
     {% for item in recent_news %}
     <div class="box" style="margin-bottom: 1rem; padding: 1rem;">
