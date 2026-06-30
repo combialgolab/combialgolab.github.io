@@ -166,30 +166,35 @@ show_sidebar: false
       
       <div class="column is-4">
         <figure class="image is-square">
-          <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img" style="filter: grayscale(100%); opacity: 0.8;"> 
-          </figure>
+          <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img">
+        </figure>
       </div>
       
       <div class="column">
-        <div class="member-name is-size-5">{{ member.name }}</div>
+        <div class="member-name is-size-4">{{ member.name }}</div>
         <div class="member-role is-size-6">{{ member.role }}</div>
-        {% if member.interests %}
-        <p class="is-size-7 has-text-grey mb-2">
-          {{ member.interests }}
-        </p>
-        {% endif %}
         
-        {% if member.website %}
-        <a href="{{ member.website }}" target="_blank" class="tag is-link is-light">
-          Home
+        {% if member.interests %}
+          <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
+          {% endif %}
+          {% if member.email %}
+          <p class="mb-1"><strong>이메일:</strong> {{ member.email }}</p>
+          {% endif %}
+          {% if member.location %}
+          <p class="mb-1"><strong>위치:</strong> {{ member.location }}</p>
+          {% endif %}
+
+          {% if member.website %}
+        <a href="{{ member.website }}" target="_blank" class="button is-outlined is-info is-small">
+          🏠 Personal Website
         </a>
         {% endif %}
       </div>
-
     </div>
   </div>
   {% endfor %}
 </div>
+<hr>
 {% endif %}
 
 
@@ -203,28 +208,33 @@ show_sidebar: false
       
       <div class="column is-4">
         <figure class="image is-square">
-          <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img" style="filter: grayscale(100%); opacity: 0.8;"> 
-          </figure>
+          <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img">
+        </figure>
       </div>
       
       <div class="column">
-        <div class="member-name is-size-5">{{ member.name }}</div>
+        <div class="member-name is-size-4">{{ member.name }}</div>
         <div class="member-role is-size-6">{{ member.role }}</div>
-        {% if member.interests %}
-        <p class="is-size-7 has-text-grey mb-2">
-          {{ member.interests }}
-        </p>
-        {% endif %}
         
-        {% if member.website %}
-        <a href="{{ member.website }}" target="_blank" class="tag is-link is-light">
-          Home
+        {% if member.interests %}
+          <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
+          {% endif %}
+          {% if member.email %}
+          <p class="mb-1"><strong>이메일:</strong> {{ member.email }}</p>
+          {% endif %}
+          {% if member.location %}
+          <p class="mb-1"><strong>위치:</strong> {{ member.location }}</p>
+          {% endif %}
+
+          {% if member.website %}
+        <a href="{{ member.website }}" target="_blank" class="button is-outlined is-info is-small">
+          🏠 Personal Website
         </a>
         {% endif %}
       </div>
-
     </div>
   </div>
   {% endfor %}
 </div>
+<hr>
 {% endif %}
