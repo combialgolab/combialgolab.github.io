@@ -154,3 +154,77 @@ show_sidebar: false
   {% endfor %}
 </div>
 {% endif %}
+
+
+{% assign graduate = site.data.people | where: "group", "graduate" %}
+{% if graduate.size > 0 %}
+<h2 class="title is-3">Graduate Students</h2>
+<div class="columns is-multiline">
+  {% for member in graduate %}
+  <div class="column is-6 member-box">
+    <div class="columns is-mobile">
+      
+      <div class="column is-4">
+        <figure class="image is-square">
+          <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img" style="filter: grayscale(100%); opacity: 0.8;"> 
+          </figure>
+      </div>
+      
+      <div class="column">
+        <div class="member-name is-size-5">{{ member.name }}</div>
+        <div class="member-role is-size-6">{{ member.role }}</div>
+        {% if member.interests %}
+        <p class="is-size-7 has-text-grey mb-2">
+          {{ member.interests }}
+        </p>
+        {% endif %}
+        
+        {% if member.website %}
+        <a href="{{ member.website }}" target="_blank" class="tag is-link is-light">
+          Home
+        </a>
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+
+{% assign undergraduate = site.data.people | where: "group", "undergraduate" %}
+{% if undergraduate.size > 0 %}
+<h2 class="title is-3">Undergraduate Students</h2>
+<div class="columns is-multiline">
+  {% for member in undergraduate %}
+  <div class="column is-6 member-box">
+    <div class="columns is-mobile">
+      
+      <div class="column is-4">
+        <figure class="image is-square">
+          <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img" style="filter: grayscale(100%); opacity: 0.8;"> 
+          </figure>
+      </div>
+      
+      <div class="column">
+        <div class="member-name is-size-5">{{ member.name }}</div>
+        <div class="member-role is-size-6">{{ member.role }}</div>
+        {% if member.interests %}
+        <p class="is-size-7 has-text-grey mb-2">
+          {{ member.interests }}
+        </p>
+        {% endif %}
+        
+        {% if member.website %}
+        <a href="{{ member.website }}" target="_blank" class="tag is-link is-light">
+          Home
+        </a>
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}

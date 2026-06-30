@@ -13,17 +13,17 @@
   interests: Structural Graph Theory, Combinatorial Algorithms
 
 # [2] 학생 연구원들
-- name: 손채은 (Chaeeun Shon)
-  group: researcher
+- name: 김유진 (Yujin Kim)
+  group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/chaeeun-shon-profile.jpg
-  email: thscodms04@naver.com
+  img: /assets/img/yujin-kim-profile.jpg
+  email: yujin1016@inha.edu
   location: 하이테크관 1115호
-  website:
+  website: https://nnewhyee.notion.site
   interests: Graph Theory, Algorithms
 
 - name: 박진하 (Jinha Park)
-  group: researcher
+  group: undergraduate
   role: Undergraduate Research Assistant
   img: ../assets/img/jinha-park-profile.jpg
   email: qka0103@inha.ac.kr
@@ -31,14 +31,60 @@
   location: 하이테크관 1115호
   interests: Financial Network Analysis
 
-- name: 김유진 (Yujin Kim)
-  group: researcher
+- name: 손채은 (Chaeeun Shon)
+  group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/yujin-kim-profile.jpg
-  email: yujin1016@inha.edu
+  img: /assets/img/chaeeun-shon-profile.jpg
+  email: thscodms04@naver.com
   location: 하이테크관 1115호
-  website: https://nnewhyee.notion.site
+  website:
   interests: Graph Theory, Algorithms
+
+- name: 강동완 (Dongwan David Kang)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/dongwan-david-kang-profile.jpg
+  email: dvd0209@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
+- name: 김동준 (Dongjun Kim)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/dongjun-kim-profile.jpg
+  email: kindongjun@naver.com
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
+- name: 김용승 (YongSeung Kim)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/yongseung-kim-profile.jpg
+  email: yong213@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
+- name: 박준홍 (Jun Hong Park)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: #/assets/img/dongwan-david-kang-profile.jpg
+  email: pparksj22@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
+- name: 조민재 (Minjae Cho)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/minjae-cho-profile.jpg
+  email: whalswo08@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
 
 # # [3] 졸업생 (Alumni)
 # - name: 박민수 (Minsu Park)
