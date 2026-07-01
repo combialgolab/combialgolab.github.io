@@ -70,7 +70,7 @@
 - name: 박준홍 (Junhong Park)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: #/assets/img/junhong-park-profile.jpg
+  img: /assets/img/junhong-park-profile.jpg
   email: pparksj22@inha.edu
   location: 하이테크관 1115호
   website:
