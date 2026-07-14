@@ -1,6 +1,15 @@
 # Accepted Journal Papers
 
 - year: 2026
+  date: 2026-07-03
+  date_detail: "July 2026"
+  title: "Unavoidable pivot-minors in graphs of large rank-depth"
+  authors: "**Jungho Ahn**, Kevin Hendrey, O-joung Kwon, and Sang-il Oum"
+  venue: "SIAM Journal on Discrete Mathematics (SIDMA)"
+  type: "Accepted Journal Papers"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
+  pdf: "/assets/pdf/CALarxiv6.pdf"
+
+- year: 2026
   date: 2026-01-01 # 이 필드가 메인 페이지의 Recent Publications의 기준이 됩니다. 형식: YYYY-MM-DD 
   date_detail: "August 2026"
   title: "Unified almost linear kernels for generalized covering and packing problems on nowhere dense classes"
