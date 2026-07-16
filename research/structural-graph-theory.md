@@ -15,7 +15,7 @@ Our research in **Structural Graph Theory** focuses on mathematically modeling a
 ## Major Research Topics
 
 ### 1. Structural Graph Parameters & Decomposition
-* **Graph Parameters:** Investigating structural parameters that measure graph complexity, with a particular focus on **twin-width**, **rank-depth**, **treewidth**, and **pivot-minors**.
+* **Graph Parameters:** Investigating structural parameters that measure graph complexity, with a particular focus on **twin-width**, **rank-depth**, **tree-width**, and **pivot-minors**.
 * **Decomposition & Width Measures:** Studying width-based decompositions to understand the structural boundaries of computationally hard graph problems.
 
 ### 2. Extremal & Structural Graph Theory (Erdős-Pósa Type Results)

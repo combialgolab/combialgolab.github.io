@@ -19,7 +19,7 @@ Our research in **Combinatorial Algorithms** focuses on designing efficient exac
 * **Graph Optimization Problems:** Designing approximation and exact algorithms for classic hard problems, including **graph coloring** (b-coloring, fall coloring), **cut problems** (d-cuts, Maximum Cut), and **vertex deletion**.
 
 ### 2. Parameterized Complexity & Kernelization
-* **Multivariate Complexity Analysis:** Analyzing problem complexity in relation to structural parameters rather than just input size to find tractable boundaries.
+* **Parameterized Complexity Analysis:** Analyzing problem complexity in relation to structural parameters rather than just input size to find tractable boundaries.
 * **Kernelization:** Developing polynomial and linear kernels (efficient preprocessing algorithms) for generalized covering, packing, and deletion problems on sparse graph classes.
 
 ---
