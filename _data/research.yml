@@ -2,10 +2,10 @@
   subtitle: "그래프 구조 분석"
   description: "그래프 매개변수 및 구조를 분석하고 분해 방법을 연구합니다."
   image: "/assets/img/research1.png"
-  link: "/research/graph-theory/"
+  link: "/research/structural-graph-theory/"
 
 - title: "Combinatorial Algorithms"
   subtitle: "조합적 알고리즘"
   description: "NP-Hard 문제 해결을 위한 조합적 알고리즘을 설계하거나 계산 복잡도를 규명합니다."
   image: "/assets/img/research2.png"
-  link: "/research/financial-ai/"
+  link: "/research/combinatorial-algorithms/"
