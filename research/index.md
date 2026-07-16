@@ -23,11 +23,13 @@ show_sidebar: false
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
   }
 
-  /* 이미지 비율 고정 */
+/* 이미지 비율 고정 및 자름 방지 수정 */
   .card-image img {
-    object-fit: cover;
+    object-fit: contain; /* 이미지가 잘리지 않고 정해진 영역 안에 다 들어가도록 설정 */
     width: 100%;
-    height: 200px; /* 원하는 높이로 조절 가능 */
+    height: 180px;       /* 여백을 감안하여 높이를 기존 200px에서 180px로 살짝 조절 */
+    padding: 1rem 1rem 0 1rem; /* 상, 좌, 우에 여백(Padding)을 주어 테두리 잘림 완벽 방지 */
+    background-color: #ffffff; /* 여백 영역의 배경을 카드 흰색 배경과 통일 */
   }
 
   /* 카드 내부 여백 */
