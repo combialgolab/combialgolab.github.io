@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 
 
-우리 연구실의 안정호 교수님과 김유진, 박진하 학생이 한국 제주에서 열린 PACOH workshop: Artificial Intelligence for Combinatorics에 총 5일간 참석하였습니다. <br>(2026.07.06 ~ 2026.07.10, 글로스터호텔 함덕, <a>https://sites.google.com/view/pacoh</a>)
+우리 연구실의 안정호 교수님과 김유진, 박진하 학생이 한국 제주에서 열린 PACOH workshop: Artificial Intelligence for Combinatorics에 총 5일간 참석하였습니다. <br>(2026.07.06 ~ 2026.07.10, 글로스터호텔 함덕, <a href="https://sites.google.com/view/pacoh">PACOH 링크</a>)
 
 <div class="columns is-multiline" style="margin-top: 2rem;">
   <div class="column is-6">
