@@ -125,20 +125,16 @@ show_sidebar: true
   <div class="keyword-card">
     <strong class="keyword-title">Structural Graph Theory</strong>
     <ul class="keyword-list">
-      <li>Graph parameters</li>
-      <li>Graph decompositions</li>
-      <li>Forbidden structures</li>
-      <li>Sparse/dense graph classes</li>
+      <li>Structural Graph Parameters & Decomposition</li>
+      <li>Extremal & Structural Graph Theory</li>
     </ul>
   </div>
 
   <div class="keyword-card">
     <strong class="keyword-title">Combinatorial Algorithms</strong>
     <ul class="keyword-list">
-      <li>Parameterized complexity</li>
-      <li>Kernelization</li>
-      <li>Approximation algorithms</li>
-      <li>Combinatorial optimization</li>
+      <li>Algorithms on Special Graph Classes</li>
+      <li>Parameterized Complexity & Kernelization</li>
     </ul>
   </div>
 </div>
