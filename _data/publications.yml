@@ -202,15 +202,6 @@
   pdf: "/assets/pdf/CALarxiv7.pdf"
 
 - year: 2025
-  date: 2025-07-01
-  date_detail: "July 2025"
-  title: "Unavoidable pivot-minors in graphs of large rank-depth"
-  authors: "**Jungho Ahn**, Kevin Hendrey, O-joung Kwon, and Sang-il Oum"
-  # venue: "arXiv preprint"
-  type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
-  pdf: "/assets/pdf/CALarxiv6.pdf"
-
-- year: 2025
   date: 2025-05-01
   date_detail: "July 2025"
   title: "Approximating maximum cut on interval graphs and split graphs beyond Goemans-Williamson"
