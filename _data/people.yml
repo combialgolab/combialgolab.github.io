@@ -76,15 +76,6 @@
   website:
   interests: Graph Theory, Algorithms
 
-- name: 조민재 (Min Jae Cho)
-  group: undergraduate
-  role: Undergraduate Research Assistant
-  img: /assets/img/minjae-cho-profile.jpg
-  email: whalswo08@inha.edu
-  location: 하이테크관 1115호
-  website:
-  interests: Graph Theory, Algorithms
-
 
 # # [3] 졸업생 (Alumni)
 # - name: 박민수 (Minsu Park)
@@ -95,3 +86,8 @@
 #   website:
 #   location: 
 #   interests: 2024 Ph.D. Gradient
+
+- name: 조민재
+  group: alumni
+  period: 2026.07 - 2026.08
+  destination:
