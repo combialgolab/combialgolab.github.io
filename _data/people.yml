@@ -6,7 +6,7 @@
 - name: 안정호 (Jungho Ahn)
   group: professor  
   role: Assistant Professor
-  img: /assets/img/prof-profile.jpg
+  img: /assets/img/people/prof-profile.jpg
   email: junghoahn@inha.ac.kr
   location: 하이테크관 1306호
   website: https://www.junghoahn.com/
@@ -16,7 +16,7 @@
 - name: 김유진 (Yujin Kim)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/yujin-kim-profile.jpg
+  img: /assets/img/people/yujin-kim-profile.jpg
   email: yujin1016@inha.edu
   location: 하이테크관 1115호
   website: https://nnewhyee.notion.site
@@ -25,7 +25,7 @@
 - name: 박진하 (Jinha Park)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: ../assets/img/jinha-park-profile.jpg
+  img: /assets/img/people/jinha-park-profile.jpg
   email: qka0103@inha.ac.kr
   website: https://accidental-timpani-ccf.notion.site/18810e16ffc14b52abb86477a78aad2c?source=copy_link
   location: 하이테크관 1115호
@@ -34,7 +34,7 @@
 - name: 손채은 (Chaeeun Shon)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/chaeeun-shon-profile.jpg
+  img: /assets/img/people/chaeeun-shon-profile.jpg
   email: thscodms04@naver.com
   location: 하이테크관 1115호
   website:
@@ -43,7 +43,7 @@
 - name: 강동완 (Dongwan David Kang)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/dongwan-david-kang-profile.jpg
+  img: /assets/img/people/dongwan-david-kang-profile.jpg
   email: dvd0209@inha.edu
   location: 하이테크관 1115호
   website:
@@ -52,7 +52,7 @@
 - name: 김동준 (Dongjun Kim)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/dongjun-kim-profile.jpg
+  img: /assets/img/people/dongjun-kim-profile.jpg
   email: kindongjun@naver.com
   location: 하이테크관 1115호
   website:
@@ -61,7 +61,7 @@
 - name: 김용승 (YongSeung Kim)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/yongseung-kim-profile.jpg
+  img: /assets/img/people/yongseung-kim-profile.jpg
   email: yong213@inha.edu
   location: 하이테크관 1115호
   website:
@@ -70,11 +70,39 @@
 - name: 박준홍 (Jun hong Park)
   group: undergraduate
   role: Undergraduate Research Assistant
-  img: /assets/img/junhong-park-profile.jpg
+  img: /assets/img/people/junhong-park-profile.jpg
   email: pparksj22@inha.edu
   location: 하이테크관 1115호
   website:
   interests: Graph Theory, Algorithms
+
+- name: 김강호 (Kangho Kim)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/people/Kangho_Kim-profile.jpg
+  email: kgangho00@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
+- name: 김현겸 (Hyun Gyum Kim)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/people/Hyun_Gyum_Kim-profile.jpg
+  email: harison1113@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
+- name: 박재형 (Jaehyeong Park)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/people/Jaehyeong_Park-profile.jpg
+  email: jhp461@inha.edu
+  location: 하이테크관 1115호
+  website:
+  interests: Graph Theory, Algorithms
+
 
 
 # # [3] 졸업생 (Alumni)

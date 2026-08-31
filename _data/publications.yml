@@ -193,6 +193,15 @@
 # Preprints
 
 - year: 2026
+  date: 2026-08-25
+  date_detail: "August 2026"
+  title: "Erdős–Pósa property for induced packings of long S-cycles"
+  authors: "**Jungho Ahn**, O-joung Kwon"
+  # venue: "arXiv preprint"
+  type: "Preprints"  # 카테고리 명칭 일치 필수 (Preprints, Accepted Journal Papers, Refereed Conference Papers)
+  pdf: "/assets/pdf/CALarxiv8.pdf"
+
+- year: 2026
   date: 2026-03-01
   date_detail: "March 2026"
   title: "Optimal b-colourings and fall colourings in H-free graphs"
