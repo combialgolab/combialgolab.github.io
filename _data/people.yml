@@ -106,12 +106,13 @@
 #   location: 
 #   interests: 2024 Ph.D. Gradient
 
-- name: 조민재 (Undergrad)
-  group: alumni
-  period: 2026.06 - 2026.08
-  destination: Inha University
-  
+
 - name: 김동준 (Undergrad)
   group: alumni
   period: 2026.06 - 2026.09
+  destination: Inha University
+
+- name: 조민재 (Undergrad)
+  group: alumni
+  period: 2026.06 - 2026.08
   destination: Inha University
