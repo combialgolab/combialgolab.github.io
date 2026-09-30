@@ -49,15 +49,6 @@
   website:
   interests: Graph Theory, Algorithms
 
-- name: 김동준 (Dongjun Kim)
-  group: undergraduate
-  role: Undergraduate Research Assistant
-  img: /assets/img/people/dongjun-kim-profile.jpg
-  email: kindongjun@naver.com
-  location: 하이테크관 1307호
-  website:
-  interests: Graph Theory, Algorithms
-
 - name: 김용승 (YongSeung Kim)
   group: undergraduate
   role: Undergraduate Research Assistant
@@ -118,4 +109,9 @@
 - name: 조민재 (Undergrad)
   group: alumni
   period: 2026.06 - 2026.08
+  destination: Inha University
+  
+- name: 김동준 (undergrad)
+  group: alumni
+  period: 2026.06 - 2026.09
   destination: Inha University
