@@ -137,6 +137,9 @@ show_sidebar: false
         <div class="member-name is-size-4">{{ member.name }}</div>
         <div class="member-role is-size-6">{{ member.role }}</div>
         
+        {% if member.since %}
+          <p class="mb-1"><strong>Since {{ member.since }}</strong></p>
+          {% endif %}
         {% if member.interests %}
           <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
           {% endif %}
@@ -179,7 +182,10 @@ show_sidebar: false
         <div class="member-name is-size-4">{{ member.name }}</div>
         <div class="member-role is-size-6">{{ member.role }}</div>
         
-        {% if member.interests %}
+        {% if member.since %}
+          <p class="mb-1"><strong>Since {{ member.since }}</strong></p>
+          {% endif %}
+          {% if member.interests %}
           <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
           {% endif %}
           {% if member.email %}

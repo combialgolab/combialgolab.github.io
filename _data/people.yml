@@ -21,6 +21,7 @@
   location: 하이테크관 1307호
   website: https://nnewhyee.notion.site
   interests: Graph Theory, Algorithms
+  since: 2026.03. - Present
 
 - name: 박진하 (Jinha Park)
   group: undergraduate
@@ -30,6 +31,7 @@
   website: https://jjiinaaa.github.io/
   location: 하이테크관 1307호
   interests: Portfolio Optimization via Graph Theory
+  since: 2026.03. - Present
 
 - name: 손채은 (Chaeeun Shon)
   group: undergraduate
@@ -39,6 +41,7 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.03. - Present
 
 - name: 강동완 (Dongwan David Kang)
   group: undergraduate
@@ -48,6 +51,7 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.06. - Present
 
 - name: 김용승 (YongSeung Kim)
   group: undergraduate
@@ -57,6 +61,7 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.06. - Present
 
 - name: 박준홍 (Jun hong Park)
   group: undergraduate
@@ -66,6 +71,7 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.06. - Present
 
 - name: 김강호 (Kangho Kim)
   group: undergraduate
@@ -75,6 +81,7 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.09. - Present
 
 - name: 김현겸 (Hyun Gyum Kim)
   group: undergraduate
@@ -84,6 +91,7 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.09. - Present
 
 - name: 박재형 (Jaehyeong Park)
   group: undergraduate
@@ -93,6 +101,17 @@
   location: 하이테크관 1307호
   website:
   interests: Graph Theory, Algorithms
+  since: 2026.09. - Present
+
+- name: 이지호 (Jiho Lee)
+  group: undergraduate
+  role: Undergraduate Research Assistant
+  img: /assets/img/people/jiho_lee_profile.jpg
+  email: jil256@ucsd.edu
+  location: 하이테크관 1307호
+  website:
+  interests: Graph Theory, Algorithms
+  since: 2026.11. - Present
 
 
 
