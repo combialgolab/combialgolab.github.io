@@ -50,7 +50,7 @@ show_sidebar: false
       <div class="column">
         <div class="member-name is-size-4">{{ member.name }}</div>
         <p class="member-role is-size-5">{{ member.role }}</p>
-        
+
         <div class="content is-size-6">
           {% if member.interests %}
           <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
@@ -76,7 +76,6 @@ show_sidebar: false
 <hr>
 {% endif %}
 
-
 {% assign researchers = site.data.people | where: "group", "researcher" %}
 {% if researchers.size > 0 %}
 <h2 class="title is-3">Researchers</h2>
@@ -84,7 +83,7 @@ show_sidebar: false
   {% for member in researchers %}
   <div class="column is-6 member-box">
     <div class="columns is-mobile">
-      
+
       <div class="column is-4">
         <figure class="image is-square">
           <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img">
@@ -117,7 +116,6 @@ show_sidebar: false
 </div>
 <hr>
 {% endif %}
-
 
 {% assign graduate = site.data.people | where: "group", "graduate" %}
 {% if graduate.size > 0 %}
@@ -126,7 +124,7 @@ show_sidebar: false
   {% for member in graduate %}
   <div class="column is-6 member-box">
     <div class="columns is-mobile">
-      
+
       <div class="column is-4">
         <figure class="image is-square">
           <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img">
@@ -138,7 +136,7 @@ show_sidebar: false
         <div class="member-role is-size-6">{{ member.role }}</div>
         
         {% if member.since %}
-          <p class="mb-1"><strong>Since {{ member.since }}</strong></p>
+          <p class="mb-1"><strong>{{ member.since }}</strong></p>
           {% endif %}
         {% if member.interests %}
           <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
@@ -163,7 +161,6 @@ show_sidebar: false
 <hr>
 {% endif %}
 
-
 {% assign undergraduate = site.data.people | where: "group", "undergraduate" %}
 {% if undergraduate.size > 0 %}
 <h2 class="title is-3">Undergraduate Students</h2>
@@ -171,7 +168,7 @@ show_sidebar: false
   {% for member in undergraduate %}
   <div class="column is-6 member-box">
     <div class="columns is-mobile">
-      
+
       <div class="column is-4">
         <figure class="image is-square">
           <img src="{{ member.img }}" alt="{{ member.name }}" class="profile-img">
@@ -183,7 +180,7 @@ show_sidebar: false
         <div class="member-role is-size-6">{{ member.role }}</div>
         
         {% if member.since %}
-          <p class="mb-1"><strong>Since {{ member.since }}</strong></p>
+          <p class="mb-1"><strong>{{ member.since }}</strong></p>
           {% endif %}
           {% if member.interests %}
           <p class="mb-1"><strong>연구 분야:</strong> {{ member.interests }}</p>
@@ -207,7 +204,6 @@ show_sidebar: false
 </div>
 <hr>
 {% endif %}
-
 
 {% assign alumni = site.data.people | where: "group", "alumni" %}
 {% if alumni.size > 0 %}
