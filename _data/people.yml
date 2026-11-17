@@ -103,15 +103,15 @@
   interests: Graph Theory, Algorithms
   since: 2026.09. - Present
 
-- name: 이지호 (Jiho Lee)
-  group: undergraduate
-  role: Undergraduate Research Assistant
-  img: /assets/img/people/jiho_lee_profile.jpg
-  email: jil256@ucsd.edu
-  location: 하이테크관 1307호
-  website:
-  interests: Graph Theory, Algorithms
-  since: 2026.11. - Present
+# - name: 이지호 (Jiho Lee)
+#   group: undergraduate
+#   role: Undergraduate Research Assistant
+#   img: /assets/img/people/jiho_lee_profile.jpg
+#   email: jil256@ucsd.edu
+#   location: 하이테크관 1307호
+#   website:
+#   interests: Graph Theory, Algorithms
+#   since: 2026.11. - Present
 
 
 
